@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shieroozah.truckpainting.org.uk/sitemap.xml
